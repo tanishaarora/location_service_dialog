@@ -1,4 +1,4 @@
-# snapchat_filter_using_mlkit
+# location_service_dialog
 
 A new Flutter project.
 
