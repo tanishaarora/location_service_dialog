@@ -1,6 +1,6 @@
 # location_service_dialog
 
-A new Flutter project.
+A new Flutter project that uses native(google) location enabling dialog box.
 
 ## Getting Started
 
